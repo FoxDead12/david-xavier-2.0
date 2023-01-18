@@ -1,0 +1,50 @@
+{
+    "code": "pt-PT",
+    "title": "David Xavier | Programador FullStack",
+    "header": {
+        "about": "Sobre Mim",
+        "formation": "Formações",
+        "experience": "Experiências",
+        "contact": "Contacte-Me"
+    },
+    "hero": {
+        "upText": "Olá, sou o",
+        "bottomText": "JUNIOR SOFTWARE DEVELOPER"
+    },
+    "about": {
+        "section": "Sobre",
+        "me": "Eu!!",
+        "descriptionHey":"Olá,",
+        "description": "Sou o David Xavier um rapaz de 20 anos. Neste momento estou a realizar o meu curso de Engenharia Informática. Já realizei algumas formações profissionais, devido a isso ganhei a experiência de programar para diversas plataformas, como aplicações Desktop, aplicativos Mobile e aplicativos Web. Tenho uma enorme paixão por o que faço e tenho cada vez mais motivação para melhor as minhas hard skills, e tornar-me cada vez melhor no meu trabalho."
+    },
+    "formation": {
+        "section": "Formações"
+    },
+    "experiences": {
+        "section": "Experiências"
+    },
+    "footer": {
+        "section": "Contactos",
+        "myEmail": "O Meu Email:",
+        "form": {
+            "title": "ENVIE-ME UMA MENSAGEM!!",
+            "successMessage": "Email foi enviado com sucesso 😋!",
+            "errorMessage": "Tente novamente, ocorreu algum erro 😓!",
+            "name": "Nome",
+            "email": "Email",
+            "message": "Mensagem",
+            "button": "Enviar",
+            "privacyPoliticText": "Ao efetuar o envio assumo que li e concordo com a",
+            "privacyPoliticWord": "Política de Privacidade"
+        }
+    },
+    "privacyPolity": {
+        "title": "Política de Privacidade",
+        "row1": "Esta declaração de garantia de privacidade de dados aplica-se especifica e exclusivamente ao serviço do site 'davidxavier.website'.",
+        "row2": "Quando pedimos o seu nome, email, entre outros, temos como objetivo manter um relacionamento mais próximo com os nossos utilizadores. Apos o seu consentimento, passamos a ter possibilidade de o contactar de forma a responder ás suas necessidades e/ou pedido efetuado após usar os nossos serviços.",
+        "row3": "'davidxavier.website' respeita a privacidade de todos os seus utilizadores e garante que as informações fornecidas pelos utilizadores não serão utilizadas em nenhuma lista com fins promocionais, via correio eletrónico, nem serão divulgados a qualquer outra organização ou empresa. 'davidxavier.website' compromete-se ao uso de uma tecnologia suficientemente eficaz para que a sua experiência online seja de dia para dia mais segura e os seus relacionamentos na Web cada vez mais reforçados, recolhendo e tratando os dados de forma segura, impedindo a sua perda ou manipulação.",
+        "row4": "Os dados recolhidos pelo 'davidxavier.website' serão utilizados de acordo com o cumprimento da legislação aplicável sobre proteção de dados pessoais – Lei 58/2019 de 8 de agosto, Lei de Proteção de Dados – de forma a que fique assegurada a confidencialidade e segurança dos dados pessoais fornecidos. Os mesmos destinam-se a ser usados para comunicação com os utilizadores, resposta a pedidos de informação.",
+        "row5": "Sobre qualquer questão que tenha relativa a este compromisso, não hesite em contactar-nos."
+       
+    }
+}
