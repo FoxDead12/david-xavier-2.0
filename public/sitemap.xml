@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+    xmlns:xhtml="http://www.w3.org/1999/xhtml/">
     <url>
-        <loc>https://davidxavier.me/en</loc>
-        <link rel="alternate" hreflang="en" href="https://davidxavier.me/en" />
-        <link rel="alternate" hreflang="pt" href="https://davidxavier.me/pt" />
-    </url>
-    <url>
-        <loc>https://davidxavier.me/pt</loc>
-        <link rel="alternate" hreflang="pt" href="https://davidxavier.me/pt" />
-        <link rel="alternate" hreflang="en" href="https://davidxavier.me/en" />
+        <loc>https://davidxavier.me</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://davidxavier.me/en" />
+        <xhtml:link rel="alternate" hreflang="pt" href="https://davidxavier.me/pt" />
+        <lastmod>2023-01-18T03:16:15.990Z</lastmod>
     </url>
 </urlset>
