@@ -6,8 +6,8 @@ export function HeadPage ({title, description, keywords}: any) {
         <>
         <Head>
             <title>{title}</title>
-            <link rel="canonical" href="https://davidxavier.me/" />
-            <link rel="canonical" href="https://davidxavier.me/pt" />
+            {/* <link rel="canonical" href="https://davidxavier.me/" />
+            <link rel="canonical" href="https://davidxavier.me/pt" /> */}
 
             <link rel="icon" sizes="64x64" type="image/x-icon" href="/D.ico" />
             <link rel="shortcut icon" href="/D.ico" type="image/x-icon"></link>
