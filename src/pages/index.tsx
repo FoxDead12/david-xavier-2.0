@@ -21,7 +21,7 @@ export default function Home() {
 
   return (
     <>
-    <HeadPage title={translate("title")} description={translate("about.description")}/>
+    <HeadPage title={translate("title")} description={translate("about.description")} keywords={translate("keywords")}/>
     <div className="relative flex flex-col bg-gray-50 z-0 overflow-hidden">
       <Header t={translate} locale={locale || ""} locales={locales || []} changeLocal={changeLocal} />
       <Hero t={translate}/>
