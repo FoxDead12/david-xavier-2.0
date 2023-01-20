@@ -20,6 +20,7 @@ export function HeadPage ({title, description, keywords}: any) {
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <meta name="generator" content="By David Xavier" />
 
+            <link rel="alternate" hrefLang="en" href="https://davidxavier.me/" />
             <link rel="alternate" hrefLang="en" href="https://davidxavier.me/en" />
             <link rel="alternate" hrefLang="pt" href="https://davidxavier.me/pt" />
 
