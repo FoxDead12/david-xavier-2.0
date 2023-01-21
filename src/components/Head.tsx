@@ -21,10 +21,10 @@ export function HeadPage ({title, description, keywords}: any) {
             <meta name="generator" content="By David Xavier" />
 
             <link rel="alternate" hrefLang="en" href="https://davidxavier.me/" />
-            <link rel="alternate" hrefLang="en" href="https://davidxavier.me/en" />
-            <link rel="alternate" hrefLang="pt" href="https://davidxavier.me/pt" />
 
-
+            <meta property="og:title" content={title} />
+            <meta property="og:description" content={description} />
+            <meta property="og:image" content="https://davidxavier.me/" />
         </Head>
         </>
     )
