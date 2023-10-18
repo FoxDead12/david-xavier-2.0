@@ -66,6 +66,7 @@ const experiencesArrayPT = [
         localizacao: 'Porto',
         actual: "Atualmente",
         dataInicio: new Date("February 1, 2023"),
+        dataFim: null,
     }
 ];
 
@@ -130,6 +131,7 @@ const experiencesArrayEN = [
         localizacao: 'Porto',
         actual: "Atualmente",
         dataInicio: new Date("February 1, 2023"),
+        dataFim: null,
     }
 ];
 
