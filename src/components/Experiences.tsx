@@ -129,7 +129,7 @@ const experiencesArrayEN = [
         cargo : 'Developer',
         empresa: 'Cegid Cloudware',
         localizacao: 'Porto',
-        actual: "Atualmente",
+        actual: "Current",
         dataInicio: new Date("February 1, 2023"),
         dataFim: null,
     }
@@ -141,7 +141,7 @@ export default function Experiences ({t, locale}: Props) {
 
         if(locale === "pt") {
 
-            return experiencesArrayPT.map((el, n) => {
+            return experiencesArrayPT.map((el: any, n) => {
 
                 return (
                     <Experience code={locale} key={n} actualText={el.actual} left={el?.left} img={el?.img} cargo={el?.cargo} empresa={el?.empresa} localizacao={el?.localizacao} dataInicio={el?.dataInicio} dataFim={el?.dataFim || undefined} />
@@ -150,10 +150,10 @@ export default function Experiences ({t, locale}: Props) {
         }
         else {
 
-            return experiencesArrayEN.map((el, n) => {
+            return experiencesArrayEN.map((el: any, n) => {
 
                 return (
-                    <Experience code={locale} key={n} actualText={el.actual} left={el?.left} img={el?.img} cargo={el?.cargo} empresa={el?.empresa} localizacao={el?.localizacao} dataInicio={el?.dataInicio} dataFim={el?.dataFim || undefined} />
+                    <Experience code={locale} key={n} actualText={el.actual } left={el?.left} img={el?.img} cargo={el?.cargo} empresa={el?.empresa} localizacao={el?.localizacao} dataInicio={el?.dataInicio} dataFim={el?.dataFim || undefined} />
                 )
             })
         }
